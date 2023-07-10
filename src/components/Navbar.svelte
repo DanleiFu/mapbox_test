@@ -1,19 +1,28 @@
 <div class="heading">
-    <h1>This is my map App</h1>
-  </div>
-  
-  <style>
+    <h2>Map API</h2>
+</div>
+
+<style>
+@font-face {
+        font-family: Lato;
+        src: url("../fonts/Lato-Regular.ttf") font-weight-normal,
+            url("../fonts/Lato-Thin.ttf") font-weight-thin,
+            url("../fonts/Lato-Light.ttf") font-weight-light
+    }
+
+    *{
+        font-family: 'Lato';
+        font-weight: lighter;
+    }
     .heading {
-      margin: 0;
-      padding: 0px;
-      background-color: 
-  black;
-      color: 
-  white;
+        margin: 0;
+        padding: 1px;
+        background-color: black;
+        color: white;
     }
-  
-    .heading > h1 {
-      padding: 20px;
-      margin: 0;
+
+    .heading > h2 {
+        padding: 15px;
+        margin: 0;
     }
-  </style>
+</style>
