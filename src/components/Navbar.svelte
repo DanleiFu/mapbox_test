@@ -1,5 +1,5 @@
 <div class="heading">
-    <h2>Map API</h2>
+    <h2>Ulm Herum Erweiterung</h2>
 </div>
 
 <style>
