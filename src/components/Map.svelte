@@ -112,8 +112,8 @@
                     },
                 },
                 paint: {
-                    "circle-radius": 10,
-                    "circle-color": "#000000",
+                    "circle-radius": 8,
+                    "circle-color": "#70A9FF",
                 },
             });
         });

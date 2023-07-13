@@ -17,7 +17,7 @@
     .heading {
         margin: 0;
         padding: 1px;
-        background-color: black;
+        background-color: #2A2B2F;
         color: white;
     }
 
